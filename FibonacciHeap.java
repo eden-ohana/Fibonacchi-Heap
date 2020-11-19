@@ -539,9 +539,6 @@ public class FibonacciHeap
 
 /**
     * public class HeapNode
-    * If you wish to implement classes other than FibonacciHeap
-    * (for example HeapNode), do it in this file, not in 
-    * another file 
     *  
     */
     public class HeapNode
